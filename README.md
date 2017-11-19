@@ -19,4 +19,8 @@ asasas
 
 Write something about yourself. Thanks!
 
+
+TO JEST LINIJKA DOPISANA Z DOMU!
+
 LINIJKA DOPISANA Z DOMU, Po raz drugi.!.
+
