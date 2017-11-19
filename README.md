@@ -17,4 +17,6 @@ sd
           as
 asasas
 
+Write something about yourself. Thanks!
 
+LINIJKA DOPISANA Z DOMU, Po raz drugi.!.
