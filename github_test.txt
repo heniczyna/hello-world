@@ -3,3 +3,6 @@ bla test
 dopisanie linii
 
 dopisanie linii . . .
+
+http://befused.com/git/existing-project-github
+
