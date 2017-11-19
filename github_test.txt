@@ -1,1 +1,5 @@
 bla test
+
+dopisanie linii
+
+dopisanie linii . . .
